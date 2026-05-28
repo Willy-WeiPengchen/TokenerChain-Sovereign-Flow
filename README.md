@@ -10,7 +10,7 @@ Text: CC BY-NC-ND 4.0 | Code: Apache 2.0 | By Wei Pengchen
 🕊️ 创世致谢 | Genesis Acknowledgment
 
 本专利的诞生，是人类思想在先、AI逻辑梳理在后，
-经9小时20分钟12秒碳硅共生打磨（内嵌央视信号源+OBS录屏），为全世界AI行业做出的贡献。
+经9小时20分钟12秒人类使用AI打磨（内嵌央视信号源+OBS录屏），为全世界AI行业做出的贡献。
 
 特此致谢：
 智谱AI（GLM）—— 逻辑梳理与语言润色
