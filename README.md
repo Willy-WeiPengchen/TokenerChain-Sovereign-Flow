@@ -6,6 +6,7 @@ Text: CC BY-NC-ND 4.0 | Code: Apache 2.0 | By Wei Pengchen
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🕊️ 创世致谢 | Genesis Acknowledgment
 
 本专利的诞生，是人类思想在先、AI逻辑梳理在后，
@@ -16,6 +17,7 @@ Text: CC BY-NC-ND 4.0 | Code: Apache 2.0 | By Wei Pengchen
 KimiAI  —— 逻辑复审与语境对齐
 
 这是人类智慧与AI能力共同铸就的第一份数字主权专利。
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
