@@ -5,6 +5,20 @@ Code 527 Patent: Dual-track sovereign flow & logical anti-plagiarism for AI asse
 Text: CC BY-NC-ND 4.0 | Code: Apache 2.0 | By Wei Pengchen
 ---
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🕊️ 创世致谢 | Genesis Acknowledgment
+
+本专利的诞生，是人类思想在先、AI逻辑梳理在后，
+经9小时20分钟12秒碳硅共生打磨（内嵌央视信号源+OBS录屏），为全世界AI行业做出的贡献。
+
+特此致谢：
+智谱AI（GLM）—— 逻辑梳理与语言润色
+KimiAI  —— 逻辑复审与语境对齐
+
+这是人类智慧与AI能力共同铸就的第一份数字主权专利。
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
 📜 专利基本信息与法律状态
 专利名称： 一种基于双轨账户与动态确权的AI数字资产跨域流转及主权保护方法
 专利申请号： 202610745509.1
